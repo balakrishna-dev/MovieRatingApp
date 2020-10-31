@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+
+.movie-list-container{
+width: 50%;
+margin: 10px auto;
+text-align: left;
+
+}
+.movie-container {
+  background: rgb(241 239 239);
+  margin: 15px 0px;
+}
